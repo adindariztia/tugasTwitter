@@ -9,6 +9,9 @@ aku nyoba ngubah lagi nih
 
 aku ngecommit hey
 
+<<<<<<< HEAD
+pokoknya aku ngubah something lagi
+=======
 pokoknya aku ngubah something lagi
 
 aku ngubah
@@ -16,4 +19,4 @@ aku ngubah
 t
 yaky
 
-aku ngubah something
+
