@@ -10,3 +10,11 @@ aku nyoba ngubah lagi nih
 aku ngecommit hey
 
 pokoknya aku ngubah something lagi
+
+aku ngubah
+
+t
+yaky
+
+perubahan satu di branch adinda
+>>>>>>> adinda
