@@ -1,3 +1,7 @@
 master
 
+<<<<<<< HEAD
 ini di branch adinda
+=======
+ditambahin sama salsa
+>>>>>>> salsa
